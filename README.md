@@ -10,7 +10,7 @@
     An intelligent Tic Tac Toe using Alpha Beta Algorithm with nice looking gui in Java
     <br />
     <br />
-    <a href="https://github.com/xS4yk0x/ml-utils/issues">Report Bug</a>
+    <a href="https://github.com/xS4yk0x/Unbeatable-Tic-Tac-Toe/issues">Report Bug</a>
     ·
     <a href="https://github.com/xS4yk0x/Unbeatable-Tic-Tac-Toe/issues">Request Feature</a>
   </p>
